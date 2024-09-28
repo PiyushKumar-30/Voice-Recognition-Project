@@ -116,7 +116,7 @@ if __name__ == "__main__":
     transcript_title = "transcript"  # Desired title for the transcript
 
     # Record audio
-    record_audio(audio_filename, duration=10)
+    record_audio(audio_filename, duration = 5)
 
     # Upload and transcribe the recorded audio
     logging.info("Starting the transcription process...")
