@@ -6,7 +6,7 @@ import logging
 import os
 
 # Replace with your actual API key from AssemblyAI
-API_KEY_ASSEMBLYAI = "a12244c38482483d9b9de4b99dd8aeec"
+API_KEY_ASSEMBLYAI = "a144c38323283d9212pre4b44627dd8zxsfrv"
 
 # Set up logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
